@@ -136,7 +136,7 @@
 </div>
 <br />
 
-# 📫 You can contact me at:
+# 📫 You can contact me via:
 
 <a href="https://www.linkedin.com/in/nedoratic" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="mailto:nedoratic@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
