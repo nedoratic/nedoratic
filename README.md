@@ -5,7 +5,7 @@
 </div>
 <br />
 
-# 🔧 I am knowledgeable with:
+# 🔧 Tools and Tech:
 
 <table>
     <tr>
@@ -76,7 +76,7 @@
 </table>
 <br />
 
-# 🌱 I am currently learning:
+# 🌱 Learning:
 
 <table>
     <tr>
@@ -129,14 +129,14 @@
 </table>
 <br />
 
-# 🔭 I am currently working on:
+# 🔭 Working on:
 
 <div align="justify">
-    I am currently working on freeCodeCamp's: "Responsive Web Design Certification", "JavaScript Algorithms and Data Structures Certification", and "Front End Development Libraries Certification", in addition to a variety of side projects that are helping me evolve my skills.
+    I am currently working on freeCodeCamp's: "Responsive Web Design Certification", "JavaScript Algorithms and Data Structures Certification", "Front End Development Libraries Certification", "Data Visualization Certification", "Relational Database Certification" and "Back End Development and APIs Certification", in addition to a variety of side projects that are helping me evolve my skills.
 </div>
 <br />
 
-# 📫 You can contact me via:
+# 📫 Contact:
 
 <a href="https://www.linkedin.com/in/nedoratic" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="mailto:nedoratic@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
