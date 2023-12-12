@@ -157,9 +157,9 @@ Skills: CLI, Terminal, Zsh, Version Control, Git, GitHub, VS Code, HTML, CSS, Re
 
 <a href="https://www.linkedin.com/in/nedoratic" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="mailto:nedoratic@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
-<a href="viber://chat?number=+381695203011"><img src="https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white" alt="tel:+381695203011" height=25></a>
+<a href="viber://chat?number=381695203011"><img src="https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white" alt="tel:+381695203011" height=25></a>
 <a href="https://wa.me/381695203011"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="tel:+381695203011" height=25></a>
-<a href="signal://send?phone=+381695203011"><img src="https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white" alt="tel:+381695203011" height=25></a>
+<a href="https://signal.me/#p/+381695203011"><img src="https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white" alt="tel:+381695203011" height=25></a>
 <br />
 
 <!--
