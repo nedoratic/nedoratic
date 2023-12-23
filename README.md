@@ -9,61 +9,16 @@
 
 <table>
     <tr>
-        <td align="center" height="108" width="108">
+        <td align="center" height="100" width="100">
             <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
                 width="48"
                 height="48"
-                alt="HTML"
+                alt="VSC"
             />
-            <br /><strong>HTML</strong>
+            <br /><strong>VSC</strong>
         </td>
-        <td align="center" height="108" width="108">
-            <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-                width="48"
-                height="48"
-                alt="CSS"
-            />
-            <br /><strong>CSS</strong>
-        </td>
-        <td align="center" height="108" width="108">
-            <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
-                width="48"
-                height="48"
-                alt="SASS"
-            />
-            <br /><strong>SASS</strong>
-        </td>
-        <td align="center" height="108" width="108">
-            <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
-                width="48"
-                height="48"
-                alt="Bootstrap"
-            />
-            <br /><strong>Bootstrap</strong>
-        </td>
-        <td align="center" height="108" width="108">
-            <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-                width="48"
-                height="48"
-                alt="JavaScript"
-            />
-            <br /><strong>JavaScript</strong>
-        </td>
-        <td align="center" height="108" width="108">
-            <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"
-                width="48"
-                height="48"
-                alt="jQuery"
-            />
-            <br /><strong>jQuery</strong>
-        </td>
-        <td align="center" height="108" width="108">
+        <td align="center" height="100" width="100">
             <img
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
                 width="48"
@@ -72,7 +27,71 @@
             />
             <br /><strong>Git</strong>
         </td>
-    </tr>    
+        <td align="center" height="100" width="100">
+            <img
+                src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg"
+                width="48"
+                height="48"
+                alt="Vite"
+            />
+            <br /><strong>Vite</strong>
+        </td>
+        <td align="center" height="100" width="100">
+            <img
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+                width="48"
+                height="48"
+                alt="HTML"
+            />
+            <br /><strong>HTML</strong>
+        </td>
+        <td align="center" height="100" width="100">
+            <img
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+                width="48"
+                height="48"
+                alt="CSS"
+            />
+            <br /><strong>CSS</strong>
+        </td>
+        <td align="center" height="100" width="100">
+            <img
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+                width="48"
+                height="48"
+                alt="SASS"
+            />
+            <br /><strong>SASS</strong>
+        </td>
+        <td align="center" height="100" width="100">
+            <img
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+                width="48"
+                height="48"
+                alt="Bootstrap"
+            />
+            <br /><strong>Bootstrap</strong>
+        </td>
+        <td align="center" height="100" width="100">
+            <img
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+                width="48"
+                height="48"
+                alt="JavaScript"
+            />
+            <br /><strong>JavaScript</strong>
+        </td>
+        <td align="center" height="100" width="100">
+            <img
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"
+                width="48"
+                height="48"
+                alt="jQuery"
+            />
+            <br /><strong>jQuery</strong>
+        </td>
+    </tr>
+
 </table>
 <br />
 
@@ -80,7 +99,16 @@
 
 <table>
     <tr>
-        <td align="center" height="108" width="108">
+        <td align="center" height="100" width="100">
+            <img
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+                width="48"
+                height="48"
+                alt="Tailwind CSS"
+            />
+            <br /><strong>Tailwind CSS</strong>
+        </td>
+        <td align="center" height="100" width="100">
             <img
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
                 width="48"
@@ -89,7 +117,7 @@
             />
             <br /><strong>TypeScript</strong>
         </td>
-        <td align="center" height="108" width="108">
+        <td align="center" height="100" width="100">
             <img
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
                 width="48"
@@ -98,7 +126,7 @@
             />
             <br /><strong>MongoDB</strong>
         </td>
-        <td align="center" height="108" width="108">
+        <td align="center" height="100" width="100">
             <img
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
                 width="48"
@@ -107,7 +135,7 @@
             />
             <br /><strong>ExpressJS</strong>
         </td>
-        <td align="center" height="108" width="108">
+        <td align="center" height="100" width="100">
             <img
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
                 width="48"
@@ -116,7 +144,7 @@
             />
             <br /><strong>React</strong>
         </td>
-        <td align="center" height="108" width="108">
+        <td align="center" height="100" width="100">
             <img
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
                 width="48"
