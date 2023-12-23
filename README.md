@@ -104,9 +104,9 @@
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
                 width="48"
                 height="48"
-                alt="Tailwind CSS"
+                alt="Tailwind"
             />
-            <br /><strong>Tailwind CSS</strong>
+            <br /><strong>Tailwind</strong>
         </td>
         <td align="center" height="100" width="100">
             <img
