@@ -146,6 +146,15 @@
         </td>
         <td align="center" height="100" width="100">
             <img
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
+                width="48"
+                height="48"
+                alt="Redux"
+            />
+            <br /><strong>Redux</strong>
+        </td>
+        <td align="center" height="100" width="100">
+            <img
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
                 width="48"
                 height="48"
