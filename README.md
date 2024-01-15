@@ -155,6 +155,15 @@
         </td>
         <td align="center" height="100" width="100">
             <img
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg"
+                width="48"
+                height="48"
+                alt="D3"
+            />
+            <br /><strong>D3</strong>
+        </td>
+        <td align="center" height="100" width="100">
+            <img
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
                 width="48"
                 height="48"
