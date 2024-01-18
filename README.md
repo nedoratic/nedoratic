@@ -11,21 +11,12 @@
     <tr>
         <td align="center" height="100" width="100">
             <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
                 width="48"
                 height="48"
-                alt="VSC"
+                alt="HTML"
             />
-            <br /><strong>VSC</strong>
-        </td>
-        <td align="center" height="100" width="100">
-            <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-                width="48"
-                height="48"
-                alt="Git"
-            />
-            <br /><strong>Git</strong>
+            <br /><strong>HTML</strong>
         </td>
         <td align="center" height="100" width="100">
             <img
@@ -38,13 +29,24 @@
         </td>
         <td align="center" height="100" width="100">
             <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
                 width="48"
                 height="48"
-                alt="HTML"
+                alt="Git"
             />
-            <br /><strong>HTML</strong>
+            <br /><strong>Git</strong>
         </td>
+        <td align="center" height="100" width="100">
+            <img
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+                width="48"
+                height="48"
+                alt="VSC"
+            />
+            <br /><strong>VSC</strong>
+        </td>
+    </tr>
+    <tr>
         <td align="center" height="100" width="100">
             <img
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
@@ -65,6 +67,15 @@
         </td>
         <td align="center" height="100" width="100">
             <img
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+                width="48"
+                height="48"
+                alt="Tailwind"
+            />
+            <br /><strong>Tailwind</strong>
+        </td>
+        <td align="center" height="100" width="100">
+            <img
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
                 width="48"
                 height="48"
@@ -72,6 +83,8 @@
             />
             <br /><strong>Bootstrap</strong>
         </td>
+    </tr>
+    <tr>
         <td align="center" height="100" width="100">
             <img
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
@@ -80,6 +93,24 @@
                 alt="JavaScript"
             />
             <br /><strong>JavaScript</strong>
+        </td>
+                <td align="center" height="100" width="100">
+            <img
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+                width="48"
+                height="48"
+                alt="TypeScript"
+            />
+            <br /><strong>TypeScript</strong>
+        </td>
+                <td align="center" height="100" width="100">
+            <img
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+                width="48"
+                height="48"
+                alt="React"
+            />
+            <br /><strong>React</strong>
         </td>
         <td align="center" height="100" width="100">
             <img
@@ -91,7 +122,6 @@
             <br /><strong>jQuery</strong>
         </td>
     </tr>
-
 </table>
 <br />
 
@@ -101,21 +131,12 @@
     <tr>
         <td align="center" height="100" width="100">
             <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg"
                 width="48"
                 height="48"
-                alt="Tailwind"
+                alt="D3"
             />
-            <br /><strong>Tailwind</strong>
-        </td>
-        <td align="center" height="100" width="100">
-            <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-                width="48"
-                height="48"
-                alt="TypeScript"
-            />
-            <br /><strong>TypeScript</strong>
+            <br /><strong>D3</strong>
         </td>
         <td align="center" height="100" width="100">
             <img
@@ -137,33 +158,6 @@
         </td>
         <td align="center" height="100" width="100">
             <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-                width="48"
-                height="48"
-                alt="React"
-            />
-            <br /><strong>React</strong>
-        </td>
-        <td align="center" height="100" width="100">
-            <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
-                width="48"
-                height="48"
-                alt="Redux"
-            />
-            <br /><strong>Redux</strong>
-        </td>
-        <td align="center" height="100" width="100">
-            <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg"
-                width="48"
-                height="48"
-                alt="D3"
-            />
-            <br /><strong>D3</strong>
-        </td>
-        <td align="center" height="100" width="100">
-            <img
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
                 width="48"
                 height="48"
@@ -178,17 +172,27 @@
 # 🔭 Working on:
 
 <div align="justify">
-    I am currently working on freeCodeCamp's: "Front End Development Libraries Certification", "Data Visualization Certification", "Relational Database Certification" and "Back End Development and APIs Certification", in addition to a variety of side projects that are helping me evolve my skills.
+    I am currently working on freeCodeCamp's: "Data Visualization Certification", "Relational Database Certification" and "Back End Development and APIs Certification", in addition to a variety of side projects that are helping me evolve my skills.
 </div>
 <br />
 
 # 📜 Certifications:
 
+January 2024
+<br />
+[freeCodeCamp - Front End Development Libraries](https://www.freecodecamp.org/certification/nedoratic/front-end-development-libraries)
+<br />
+Skills: Terminal, Git, GitHub, Vite, VSC, HTML, CSS, SASS, Bootstrap, JavaScript, ES6+, React, Redux, jQuery
+<br />
+
+<br />
+
 December 2023
 <br />
 [freeCodeCamp - JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/nedoratic/javascript-algorithms-and-data-structures)
 <br />
-Skills: CLI, Terminal, Zsh, Version Control, Git, GitHub, VS Code, JavaScript, ES6+
+Skills: Terminal, Git, GitHub, VSC, HTML, CSS, JavaScript, ES6+
+<br />
 
 <br />
 
@@ -196,7 +200,7 @@ November 2023
 <br />
 [freeCodeCamp - Responsive Web Design](https://www.freecodecamp.org/certification/nedoratic/responsive-web-design)
 <br />
-Skills: CLI, Terminal, Zsh, Version Control, Git, GitHub, VS Code, HTML, CSS, Responsive Web Design, Block Element Modifier, Web Content Accessibility Guidelines
+Skills: Terminal, Git, GitHub, VSC, HTML, CSS, Responsive Web Design, Block Element Modifier, Web Content Accessibility Guidelines
 <br />
 
 # 📫 Contact:
