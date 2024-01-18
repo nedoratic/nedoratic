@@ -182,7 +182,7 @@ January 2024
 <br />
 [freeCodeCamp - Front End Development Libraries](https://www.freecodecamp.org/certification/nedoratic/front-end-development-libraries)
 <br />
-Skills: Terminal, Git, GitHub, Vite, VSC, HTML, CSS, SASS, Bootstrap, JavaScript, ES6+, React, Redux, jQuery
+Skills: • Terminal • Git • GitHub • VSC • HTML • CSS • SASS • Bootstrap • JavaScript • ES6+ • React • Redux • jQuery
 <br />
 
 <br />
@@ -191,7 +191,7 @@ December 2023
 <br />
 [freeCodeCamp - JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/nedoratic/javascript-algorithms-and-data-structures)
 <br />
-Skills: Terminal, Git, GitHub, VSC, HTML, CSS, JavaScript, ES6+
+Skills: • Terminal • Git • GitHub • VSC • HTML • CSS • JavaScript • ES6+
 <br />
 
 <br />
@@ -200,7 +200,7 @@ November 2023
 <br />
 [freeCodeCamp - Responsive Web Design](https://www.freecodecamp.org/certification/nedoratic/responsive-web-design)
 <br />
-Skills: Terminal, Git, GitHub, VSC, HTML, CSS, Responsive Web Design, Block Element Modifier, Web Content Accessibility Guidelines
+Skills: • Terminal • Git • GitHub • VSC • HTML • CSS • Responsive Web Design • Block Element Modifier • Web Content Accessibility Guidelines
 <br />
 
 # 📫 Contact:
