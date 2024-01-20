@@ -172,7 +172,7 @@
 # 🔭 Working on:
 
 <div align="justify">
-    I am currently working on freeCodeCamp's: "Data Visualization Certification", "Relational Database Certification" and "Back End Development and APIs Certification", in addition to a variety of side projects that are helping me evolve my skills.
+    I am currently working on freeCodeCamp's: "Data Visualization Certification", "Relational Database Certification", "Back End Development and APIs Certification" and "Quality Assurance", in addition to a variety of side projects that are helping me evolve my skills.
 </div>
 <br />
 
