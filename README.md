@@ -131,12 +131,12 @@
     <tr>
         <td align="center" height="100" width="100">
             <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
                 width="48"
                 height="48"
-                alt="D3"
+                alt="PostgreSQL"
             />
-            <br /><strong>D3</strong>
+            <br /><strong>PostgreSQL</strong>
         </td>
         <td align="center" height="100" width="100">
             <img
@@ -172,11 +172,20 @@
 # 🔭 Working on:
 
 <div align="justify">
-    I am currently working on freeCodeCamp's: "Data Visualization Certification", "Relational Database Certification", "Back End Development and APIs Certification" and "Quality Assurance", in addition to a variety of side projects that are helping me evolve my skills.
+    I am currently working on freeCodeCamp's: "Relational Database Certification", "Back End Development and APIs Certification" and "Quality Assurance", in addition to a variety of side projects that are helping me evolve my skills.
 </div>
 <br />
 
 # 📜 Certifications:
+
+February 2024
+<br />
+[freeCodeCamp - Data Visualization Certification](https://www.freecodecamp.org/certification/nedoratic/data-visualization)
+<br />
+Skills: • Terminal • Git • GitHub • VSC • HTML • CSS • JavaScript • ES6+ • D3
+<br />
+
+<br />
 
 January 2024
 <br />
