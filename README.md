@@ -172,11 +172,20 @@
 # Working on:
 
 <div align="justify">
-    I am currently working on freeCodeCamp's: "Relational Database Certification", "Back End Development and APIs Certification" and "Quality Assurance", in addition to a variety of side projects that are helping me evolve my skills.
+    I am currently working on freeCodeCamp's: "Back End Development and APIs Certification" and "Quality Assurance", in addition to a variety of side projects that are helping me evolve my skills.
 </div>
 <br />
 
 # Certifications:
+
+April 2024
+<br />
+[freeCodeCamp - Data Visualization Certification](https://www.freecodecamp.org/certification/nedoratic/relational-database-v8)
+<br />
+Skills: • Terminal • Bash • Git • GitHub • VSC • PostgreSQL
+<br />
+
+<br />
 
 February 2024
 <br />
