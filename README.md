@@ -180,7 +180,7 @@
 
 April 2024
 <br />
-[freeCodeCamp - Data Visualization Certification](https://www.freecodecamp.org/certification/nedoratic/relational-database-v8)
+[freeCodeCamp - Relational Database](https://www.freecodecamp.org/certification/nedoratic/relational-database-v8)
 <br />
 Skills: • Terminal • Bash • Git • GitHub • VSC • PostgreSQL
 <br />
