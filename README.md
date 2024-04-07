@@ -207,7 +207,7 @@ Skills: • Terminal • Git • GitHub • VSC • HTML • CSS • SASS • Bo
 
 December 2023
 <br />
-[freeCodeCamp - JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/nedoratic/javascript-algorithms-and-data-structures)
+[freeCodeCamp - Legacy JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/nedoratic/javascript-algorithms-and-data-structures)
 <br />
 Skills: • Terminal • Git • GitHub • VSC • HTML • CSS • JavaScript • ES6+
 <br />
