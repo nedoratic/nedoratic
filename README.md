@@ -176,7 +176,7 @@
 </div>
 <br />
 
-# Certifications:
+# Certificates:
 
 April 2024
 <br />
